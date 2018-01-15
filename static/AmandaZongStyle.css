@@ -1,0 +1,47 @@
+/* static/style.css */
+
+html {
+    margin: auto;
+}
+
+body {  
+    background: #FDF3E7;
+    vertical-align: middle;
+    text-align: center;
+}
+
+h1 {  
+	text-align: center;
+  color: #5998C5;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 72px;
+}
+
+h2 {  
+  color: gray;
+  font-family: Europa, Garamond, sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  display: inline;
+}
+
+h3 {  
+	color: #606060;
+	font-family: proxima-nova, sans-serif;
+	font-size: 20px;
+  font-weight: 600;
+  display: inline;
+}
+
+p {
+	text-align: center;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+}
+
+div {
+   margin: 5px 0;
+}
+
